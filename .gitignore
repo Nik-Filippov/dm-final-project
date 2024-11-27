@@ -1,0 +1,5 @@
+**/.DS_Store
+jupyter/
+**/jupyter/
+ipynb_checkpoints/
+**/ipynb_checkpoints/
