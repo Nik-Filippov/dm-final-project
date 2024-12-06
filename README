@@ -7,3 +7,7 @@ Division of labor:
     - Level 3
 
 Libraries used:
+matplotlib
+numpy
+json
+csv
