@@ -4,4 +4,7 @@ jupyter/
 ipynb_checkpoints/
 **/ipynb_checkpoints/
 *.csv
+!init-1-2-3-4-automaton.csv
 *.json
+!task-2-rules.json
+!task-3-rules.json
